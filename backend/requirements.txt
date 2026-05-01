@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+openai
+chromadb
+langchain
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+beautifulsoup4
+requests
+python-dotenv
+tiktoken
+pydantic
+playwright
